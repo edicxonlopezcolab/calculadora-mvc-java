@@ -17,4 +17,4 @@ Calculadora de consola con operaciones básicas (suma, resta, multiplicación y 
 
 ## Autor
 
-Edicxon López · [LinkedIn](https://linkedin.com/in/egabriel-lopez-duque)
+Gabriel López · [LinkedIn](https://linkedin.com/in/egabriel-lopez-duque)
